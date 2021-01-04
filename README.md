@@ -3,7 +3,7 @@ Counting assistant for neopets extreme potato counter
 
 1. After installing the Tampermonkey extension, click on Tampermonkey > Create a new script
 
-2. Copy and paste the code from extreme-potato-helper.js
+2. Copy and paste the code from extreme-potato-helper.user.js
 
 3. [Play extreme potato counter :)](http://www.neopets.com/games/game.phtml?game_id=226)
 
